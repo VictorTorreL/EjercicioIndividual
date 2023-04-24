@@ -1,0 +1,7 @@
+
+
+Cosas que se pueden olvidar 
+    1. No usar el programa de python como administrador
+    2. Las lentejas en el fuego porque se pegan
+    3. Los archivos .html deben de ir en la carpeta Web_Tech
+    4. Nunca mires a un pitbull a los ojos 
