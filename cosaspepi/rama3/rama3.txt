@@ -1,0 +1,7 @@
+ChatGPT es un prototipo de chatbot de inteligencia artificial desarrollado en 2022 por OpenAI que se especializa en el diálogo. El chatbot es un gran modelo de lenguaje, ajustado con técnicas de aprendizaje tanto supervisadas como de refuerzo.1​ Se basa en el modelo GPT-4 de OpenAI, una versión mejorada de GPT-3.
+
+ChatGPT se lanzó el 30 de noviembre de 20222​ y ha llamado la atención por sus respuestas detalladas y articuladas, aunque se ha criticado su precisión fáctica. El servicio se lanzó inicialmente como gratuito para el público, con planes de monetizarlo más adelante. El 4 de diciembre, OpenAI calculaba que ChatGPT ya tenía más de un millón de usuarios.3​4​ El 14 de marzo de 2023 se lanzó GPT-4.
+
+El acceso al servicio está limitado en países como China, Rusia,5​ Irán, y partes de África.6​
+
+El acceso a ChatGPT ha sido baneado en Italia debido a que desde las autoridades relacionadas con la protección de datos se estableció que hubo una violación de datos y la base jurídica para utilizar datos personales.7​
